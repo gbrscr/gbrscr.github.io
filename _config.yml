@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
    link: "Gabriele-Scrivanti-CV.pdf"
  - name: "Contact"
