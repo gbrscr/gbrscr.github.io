@@ -10,5 +10,3 @@ layout: default
 
 ## Publications
 
-## References
-
