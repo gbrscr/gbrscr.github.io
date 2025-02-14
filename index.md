@@ -47,7 +47,3 @@ Applied Maths, Image processing, Unsupervised Learning
 - Martin Huska, Damiana Lazzaro, Serena Morigi, Andrea Samore, **Gabriele Scrivanti**:  
   Spatially-Adaptive Variational Reconstructions for Linear Inverse Electrical Impedance Tomography.  
   J. Sci. Comput. 84(3): 46 (2020)
-
-- **Gabriele Scrivanti**, Luca Calatroni, Serena Morigi, Lindsay Nicholson, Alin Achim:  
-  Non-convex Super-resolution of OCT images via sparse representation.  
-  CoRR abs/2010.12576 (2020)
