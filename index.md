@@ -37,17 +37,6 @@ Applied Maths, Image processing, Unsupervised Learning
   A CNC approach for Directional Total Variation.  
   EUSIPCO 2022: 488-492
 
-- Emilie Chouzenoux, Marie-Caroline Corbineau, Jean-Christophe Pesquet, **Gabriele Scrivanti**:  
-  A Variational Approach for Joint Image Recovery and Features Extraction Based on Spatially Varying Generalised Gaussian Models.  
-  CoRR abs/2209.01375 (2022)
-
-- **Gabriele Scrivanti**, Emilie Chouzenoux, Jean-Christophe Pesquet:  
-  A CNC approach for Directional Total Variation.  
-  CoRR abs/2209.01376 (2022)
-
-- Ewa M. Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The Hung Tran:  
-  Calculus rules for proximal ε-subdifferentials and inexact proximity operators for weakly convex functions.  
-  CoRR abs/2211.14525 (2022)
 
 ## 2021
 - **Gabriele Scrivanti**, Luca Calatroni, Serena Morigi, Lindsay Nicholson, Alin Achim:  
