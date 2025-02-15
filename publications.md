@@ -3,7 +3,7 @@
 
 - Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The-Hung Tran:  
   Forward-Backward algorithms for weakly convex problems  
-  Unknown Venue  (2024)
+  arXiv  (2024)
 
 - Émilie Chouzenoux, Marie-Caroline Corbineau, Jean-Christophe Pesquet, **Gabriele Scrivanti**:  
   A Variational Approach for Joint Image Recovery and Feature Extraction Based on Spatially Varying Generalised Gaussian Models  
