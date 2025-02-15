@@ -1,0 +1,24 @@
+name: Merge Markdown Files
+
+on:
+  push:
+    branches:
+      - main  # Runs on every push to the main branch
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  merge-md:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Merge Markdown files
+        run: cat main.md included-file.md > merged.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-merged Markdown files"
+          file_pattern: "merged.md"
