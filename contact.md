@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [gabrielescrivanti@gmail.com](mailto:gabrielescrivanti@gmail.com)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Institut Photovoltaïque d'Ile-de-France (IPVF)
 >
-> London
+> 18 Bd Thomas Gobert
 >
-> United Kingdom
+> 91120 Palaiseau
+>
+> France
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#)
+2. [GoogleScholar](#)
