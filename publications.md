@@ -13,7 +13,7 @@
   Space-variant image reconstruction via Cauchy regularisation: Application to Optical Coherence Tomography  
   Signal Process. 205 : 108866 (2023)
 
-- Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The Tran:  
+- Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The-Hung Tran:  
   Calculus rules for proximal ε-subdifferentials and inexact proximity operators for weakly convex functions  
   ECC 2023 : 1-8 (2023)
 
