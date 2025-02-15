@@ -10,7 +10,10 @@ Peanut Butter and Long Books
 
 ## Research Interest
 
-Applied Maths, Image processing, Unsupervised Learning
+Solving complex problems at the intersection of **Optimisation** 🔧, **Image Processing** 🖼️, and **Unsupervised Learning** 🤖
+
+
+## Something else
 
 <!-- INCLUDE-BIBLIOGRAPHY -->
 ## Publications
@@ -43,5 +46,4 @@ Applied Maths, Image processing, Unsupervised Learning
 - Martin Huska, Damiana Lazzaro, Serena Morigi, Andrea Samore, **Gabriele Scrivanti**:  
   _Spatially-Adaptive Variational Reconstructions for Linear Inverse Electrical Impedance Tomography_  
   J. Sci. Comput. 84 (3) : 46 (2020)
-
-## Something more 
+ 
