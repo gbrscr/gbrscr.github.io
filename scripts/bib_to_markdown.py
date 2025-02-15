@@ -15,7 +15,7 @@ def bib_to_markdown(bib_file_path, highlight_author, output_file_path):
         entries_by_year[year].append(entry)
     
     sorted_years = sorted(entries_by_year.keys(), reverse=True)
-    markdown_lines = [f"# Publications\n"]
+    markdown_lines = [f"## Publications\n"]
     
     for year in sorted_years:
         #markdown_lines.append(f"\n## {year}")
