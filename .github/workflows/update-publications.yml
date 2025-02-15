@@ -1,0 +1,41 @@
+name: Update Publications List
+
+on:
+  push:
+    paths:
+      - 'publications.bib'  # Triggers when this file is modified
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-pubs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pybtex
+          
+      - name: Convert BibTeX to Markdown
+        run: |
+          python scripts/bib_to_markdown.py
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add publications.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update publications list"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
