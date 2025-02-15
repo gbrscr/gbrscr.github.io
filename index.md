@@ -8,7 +8,7 @@ Peanut Butter 🥜 and Long Books 📚
 
 <img class="profile-picture" src="portraitround.png" width="200">
 
-## Research Interest
+## Research Interests
 
 Solving complex problems at the intersection of **Optimisation** 🔧, **Image Processing** 🖼️, and **Unsupervised Learning** 🤖
 
