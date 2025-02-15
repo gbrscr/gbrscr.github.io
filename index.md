@@ -12,5 +12,5 @@ Peanut Butter and Long Books
 
 Applied Maths, Image processing, Unsupervised Learning
 
-```{include} publications.md
-```
+{include} publications.md
+
