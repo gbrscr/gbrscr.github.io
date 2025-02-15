@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Peanut Butter and Long Books
+Peanut Butter and Long Books 
 
 <img class="profile-picture" src="portraitround.png" width="200">
 
@@ -13,3 +13,5 @@ Peanut Butter and Long Books
 Applied Maths, Image processing, Unsupervised Learning
 
 <!-- publications -->
+
+## Something more
