@@ -12,11 +12,7 @@ Peanut Butter and Long Books
 
 Applied Maths, Image processing, Unsupervised Learning
 
-## Publications
-
-
-
-# Publications 2020 - Present
+## Publications 
 
 ## 2024
 - Émilie Chouzenoux, Marie-Caroline Corbineau, Jean-Christophe Pesquet, **Gabriele Scrivanti**:  
