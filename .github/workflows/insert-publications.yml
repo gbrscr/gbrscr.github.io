@@ -1,4 +1,4 @@
-name: Insert Markdown Content
+name: Insert Publications Into Index 
 
 on:
   push:
