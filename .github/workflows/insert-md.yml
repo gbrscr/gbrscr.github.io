@@ -17,7 +17,7 @@ jobs:
       - name: Insert publications.md into index.md
         run: |
           CONTENT=$(cat publications.md)  
-          awk -v content="$CONTENT" '/<!-- INCLUDE-FILE -->/ {print; print content; next}1' index.md > temp.md  
+          awk -v content="$CONTENT" '/<!-- INCLUDE-BIBLIOGRAPHY -->/ {print; print content; next}1' index.md > temp.md  
           mv temp.md index.md  
 
       - name: Commit and push changes
