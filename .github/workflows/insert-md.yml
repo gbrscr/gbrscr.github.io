@@ -1,0 +1,27 @@
+name: Insert Markdown Content
+
+on:
+  push:
+    branches:
+      - main  # Runs on every push to main
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  insert-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Insert included-file.md into main.md
+        run: |
+          CONTENT=$(cat included-file.md)  
+          awk -v content="$CONTENT" '/<!-- INCLUDE-FILE -->/ {print; print content; next}1' main.md > temp.md  
+          mv temp.md main.md  
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-inserted included-file.md into main.md"
+          file_pattern: "main.md"
