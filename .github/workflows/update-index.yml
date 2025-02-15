@@ -2,11 +2,18 @@ name: Update Index with Publications
 
 on:
   push:
+    paths:
+      - 'index_.md'      # Trigger if index_.md is modified
+      - 'publications.md' # Trigger if publications.md is modified
     branches:
-      - main   # Or your default branch name
+      - main  # Or your default branch name
+
   pull_request:
+    paths:
+      - 'index_.md'      # Trigger if index_.md is modified in the pull request
+      - 'publications.md' # Trigger if publications.md is modified in the pull request
     branches:
-      - main   # Run on pull requests to main branch
+      - main  # Or your default branch name
 
 jobs:
   update-index:
