@@ -14,14 +14,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Insert included-file.md into main.md
+      - name: Insert publications.md into index.md
         run: |
-          CONTENT=$(cat included-file.md)  
-          awk -v content="$CONTENT" '/<!-- INCLUDE-FILE -->/ {print; print content; next}1' main.md > temp.md  
-          mv temp.md main.md  
+          CONTENT=$(cat publications.md)  
+          awk -v content="$CONTENT" '/<!-- INCLUDE-FILE -->/ {print; print content; next}1' index.md > temp.md  
+          mv temp.md index.md  
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-inserted included-file.md into main.md"
-          file_pattern: "main.md"
+          commit_message: "Auto-inserted publications.md into index.md"
+          file_pattern: "index.md"
