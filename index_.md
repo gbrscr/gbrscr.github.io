@@ -14,4 +14,4 @@ Applied Maths, Image processing, Unsupervised Learning
 
 <!-- publications -->
 
-## Something more
+## Something more 
