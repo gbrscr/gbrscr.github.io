@@ -51,7 +51,7 @@ def bib_to_markdown(bib_file_path, highlight_author, output_file_path):
             
             extra_info_str = ' '.join(extra_info)
             
-            markdown_lines.append(f"\n- {author_string}:  \n  _{title}_  \n  {venue} {extra_info_str} ({year})")
+            markdown_lines.append(f"\n- {author_string}:  \n  _"{title}"_  \n  {venue} {extra_info_str} ({year})")
     
     markdown_content = '\n'.join(markdown_lines)
     
