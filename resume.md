@@ -1,5 +1,5 @@
 
-## 💼 Work Experience
+# 💼 Work Experience
 
 ### Postdoctoral Researcher
   **Institut Photovoltaïque de l'Ile de France, CNRS**  
@@ -40,11 +40,11 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 
 **Scientific Supervision** of a master student's internship in cooperation with IPVF (April 2022 - September 2022)
 
-**Students and Early Stage Researcher Representative in the TRADE-OPT Supervisory Board**  (April 2022 - May 2024)
+**Students Representative** in the TraDE-OPT Supervisory Board  (April 2022 - May 2024)
 
 **Organisation of the TRADE-OPT Summer School** (July 2021)
 
-## 🎓 Education
+# 🎓 Education
 
 ### Master Degree in Mathematics
 **University of Bologna - 110/110 cum laude**  
@@ -73,7 +73,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 **Lilla Akademien Musikgymnasium**  
 2012 - 2013 | Stockholm, Sweden
 
-## 🌐 Languages
+# 🌐 Languages
 
 * Italian: ●●●●●
 * English: ●●●●○ (IELTS 2018, Europass Level C1)
@@ -81,7 +81,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 * Swedish: ●●●○○
 * Norwegian: ●●●○○
 
-## 💻 Computer Skills
+# 💻 Computer Skills
 
 * Matlab
 * R
@@ -91,7 +91,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 * NumPy
 * Scikit-Learn
 
-## 🎯 Interests
+# 🎯 Interests
 
 * Hiking
 * Reading
