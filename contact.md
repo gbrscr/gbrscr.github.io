@@ -17,8 +17,11 @@ is_contact: true
 ## Mailing Address
 
 Institut Photovoltaïque d'Ile-de-France (IPVF)
+
 18 Bd Thomas Gobert
+
 91120 Palaiseau
+
 France
 
 ---
