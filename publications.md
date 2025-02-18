@@ -5,7 +5,7 @@
   _Rapid and Noise-Resilient Mapping of Photogenerated Carrier Lifetime in Halide Perovskite Thin Films_  
   Advanced Functional Materials : 202402343 (2024)
 
-- Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The-Hung Tran:  
+- *Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The-Hung Tran:  
   _Forward-Backward algorithms for weakly convex problems_  
   arXiv  (2024)
 
