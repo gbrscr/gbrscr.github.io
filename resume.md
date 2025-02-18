@@ -41,8 +41,8 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 Mar 2021
 
 ### Reviewing Activity
-**SIAM Journal on Imaging Science,**  
-**SIAM Journal on Mathematics of Data Science, Transactions on Pattern Analysis and Machine Intelligence**
+* SIAM Journal on Imaging Science, 
+* SIAM Journal on Mathematics of Data Science, Transactions on Pattern Analysis and Machine Intelligence
 
 ### Scientific Supervision
 of a master student's internship in cooperation with "Institute Photovoltaïque de l'Ile-de-France"  
