@@ -9,7 +9,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_text: ""
+footer_text: "  "
 
 sass:
     style: compressed
@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: ""
+ - name: "Research"
+   link: "publications"
  - name: "Resume"
    link: "Gabriele-Scrivanti-CV.pdf"
  - name: "Contact"
