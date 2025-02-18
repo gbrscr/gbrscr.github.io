@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_Peanut butter and long books 🥜📚_
+_Peanut butter and long books_ 🥜📚
 
 Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at [IPVF](https://www.ipvf.fr/en/)! 
 Welcome to my webpage!
