@@ -1,4 +1,4 @@
-title: Gabriele Scrivanti's Research Page
+etitle: Gabriele Scrivanti's Research Page
 author: Gabriele Scrivanti
 url: "https://gbrscr.github.io"
 baseurl: ""
@@ -21,6 +21,6 @@ nav:
  - name: "Research"
    link: "publications"
  - name: "Resume"
-   link: "Gabriele-Scrivanti-CV.pdf"
+   link: "resume.md"
  - name: "Contact"
    link: "contact"
