@@ -1,27 +1,24 @@
-# Gabriele Scrivanti
-
 
 ## 💼 Work Experience
 
 ### Postdoctoral Researcher
-**Institut Photovoltaïque de l'Ile de France, CNRS**  
-Oct 2024 - present | Palaiseau, France
-* Unsupervised learning for multidimensional photoluminescence imaging
+<space> **Institut Photovoltaïque de l'Ile de France, CNRS**  
+<space> Oct 2024 - present | Palaiseau, France
+<space> * Unsupervised learning for multidimensional photoluminescence imaging
 
-### Centre for Engineering and Systems Sciences
-**Centre pour la Vision numérique, CentraleSupélec,**  
-**Université Paris-Saclay**  
-Nov 2020 - May 2024 | Gif-Sur-Yvette, France
-* PhD Candidate in Mathematical Signal and Image Processing
-* Marie Skłodowska-Curie Actions ITN, TRADE-OPT
-* Thesis Title: "Some Strategies Addressing Non-Convex Variational Problems in Image Processing"
-* Supervisors: Prof. Jean-Christophe Pesquet, Prof. Ewa Bednarczuk
+### PhD Candidate in Engineering and Systems Sciences
+<space> **Centre pour la Vision numérique, CentraleSupélec,**  
+<space> **Université Paris-Saclay**  
+<space> Nov 2020 - May 2024 | Gif-Sur-Yvette, France
+<space> * Marie Skłodowska-Curie Actions ITN, TRADE-OPT
+<space> * Thesis Title: "Some Strategies Addressing Non-Convex Variational Problems in Image Processing"
+<space> * Supervisors: Prof. Jean-Christophe Pesquet, Prof. Ewa Bednarczuk
 
 ### Visiting Student
-**Systems Research Institute**  
-May 2022 - Jul 2022 | Warsaw, Poland
-* Theoretical analysis of the convergence of the Forward-Backward algorithm in the context of weakly-convex functions
-* Supervisor: Prof. Ewa Bednarczuk
+<space> **Systems Research Institute**  
+<space> May 2022 - Jul 2022 | Warsaw, Poland
+<space> * Theoretical analysis of the convergence of the Forward-Backward algorithm in the context of weakly-convex functions
+<space> * Supervisor: Prof. Ewa Bednarczuk
 
 ### Intern
 **Designers**  
