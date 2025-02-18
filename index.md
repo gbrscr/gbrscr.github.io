@@ -9,9 +9,10 @@ Peanut Butter 🥜 and Long Books 📚
 ## About Me
 
 Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at IPVF! Welocome to my webpage!
+<img class="profile-picture" src="portraitround.png" width="200">
 I got my master's in mathematics at the University of Bologna in Italy, then did my PhD at Université Paris-Saclay where I was part of the MSCA ITN network Trade-OPT.
 Now I'm at IPFV still doing research and learning new things! 🔬 🧮 
-<img class="profile-picture" src="portraitround.png" width="200">
+
 
 ## Research Interests
 
