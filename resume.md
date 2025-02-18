@@ -1,4 +1,4 @@
-# Resumé
+## Resumé
 
 ## 💼 Work Experience
 
