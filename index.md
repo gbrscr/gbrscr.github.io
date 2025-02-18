@@ -10,6 +10,7 @@ Peanut Butter 🥜 and Long Books 📚
 
 Ciao, I am Gabriele Scrivanti and this is my webpage! I am a postdoc researcher at IPVF, trying to develop advanced mathematical data analysis tools for the study of new Photovoltaic materials ☀️ 
 I got my master's in mathematics 🧮 at the University of Bologna in Italy, then did my PhD at Université Paris-Saclay where I was part of the MSCA ITN network Trade-OPT.
+
 <img class="profile-picture" src="portraitround.png" width="200">
 
 ## Research Interests
