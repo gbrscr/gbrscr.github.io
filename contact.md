@@ -3,12 +3,8 @@ layout: default
 is_contact: true
 ---
 
-
-⚧ He/Him/His
-
-📧 gabrielescrivanti@gmail.com 
-
-📍 Paris, France  
+## Contact
+⚧ He/Him/His | 📍 Paris, France  | 📧 gabrielescrivanti@gmail.com 
 
 🆔 https://orcid.org/0000-0001-8608-3588
 
