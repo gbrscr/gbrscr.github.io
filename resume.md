@@ -13,15 +13,15 @@
   * Thesis Title: "Some Strategies Addressing Non-Convex Variational Problems in Image Processing"
   * Supervisors: Prof. Jean-Christophe Pesquet, Prof. Ewa Bednarczuk
 
-### Visiting Student at **Systems Research Institute**  
+### Secondments within the ITN project
+
+**Visiting Student at Systems Research Institute**  
   May 2022 - Jul 2022 | Warsaw, Poland
-  * 2nd Secondment of the ITN project
   * Theoretical analysis of the convergence of the Forward-Backward algorithm in the context of weakly-convex functions
   * Supervisor: Prof. Ewa Bednarczuk
 
-### Intern at **Designers**  
+**Intern at Designers**  
 Nov 2021 - Apr 2022 | Warsaw, Poland
-* 1st Secondment within the ITN project
 * Development of Software for Point-Cloud Registration (C++, Python)
 
 ### Intern
