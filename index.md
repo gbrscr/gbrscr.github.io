@@ -10,7 +10,7 @@ Peanut Butter 🥜 and Long Books 📚
 
 <img class="profile-picture" src="portraitround.png" width="200">
 
-Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at IPVF! Welocome to my webpage!
+Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at IPVF! Welcome to my webpage!
 I got my master's in mathematics at the University of Bologna in Italy, then did my PhD at Université Paris-Saclay where I was part of the MSCA ITN network Trade-OPT.
 Now I'm at IPFV still doing research and learning new things! 🔬 🧮 
 
