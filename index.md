@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## About Me (very shortly)
-
 _Peanut Butter 🥜 and Long Books 📚_
 
 Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at [IPVF](https://www.ipvf.fr/en/)! Welcome to my webpage!
