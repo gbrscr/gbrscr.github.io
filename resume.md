@@ -34,6 +34,8 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 * Theoretical and algorithmic developments of image reconstruction methods with Cauchy Prior application to EIT/OCT problems
 * Supervisors: Prof. Alin Achim, Dr. Luca Calatroni
 
+----------------------
+
 ## 👨‍🏫 Other Experiences
 
 **Teaching at CentraleSupélec:** Laboratory Sessions for the M1 course in Optimisation (March 2021)
@@ -47,6 +49,9 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 **Students Representative** in the TraDE-OPT Supervisory Board  (April 2022 - May 2024)
 
 **Organisation of the TRADE-OPT Summer School** (July 2021)
+
+
+------------------- 
 
 ## 🎓 Education
 
@@ -77,6 +82,8 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 **Lilla Akademien Musikgymnasium**  
 2012 - 2013 | Stockholm, Sweden
 
+---------------------------------
+
 ## 🌐 Languages
 
 * Italian: ●●●●●
@@ -84,6 +91,8 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 * French: ●●●○○
 * Swedish: ●●●○○
 * Norwegian: ●●●○○
+
+---------------------------------
 
 ## 💻 Computer Skills
 
@@ -94,6 +103,8 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 * SciPy
 * NumPy
 * Scikit-Learn
+
+----------------------------
 
 ## 🎯 Interests
 
