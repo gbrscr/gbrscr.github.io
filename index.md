@@ -19,5 +19,5 @@ Now I'm at IPFV, still doing research and learning new things! 🔬
 
 Currently, I am developing mathematical tools for the analysis of new photovoltaic materials ☀️ 
 
-More broadly, I am intrested in solving complex problems at the intersection of **Mathematical Optimisation** 🔧, **Image Processing** 🖼️, and **Unsupervised Learning** 🤖
+More broadly, I am intrested in solving complex problems at the intersection of **Mathematical Optimisation** 🔧, **Image Processing** 🖼️ and **Unsupervised Learning** 🤖
 
