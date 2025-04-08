@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_I turn peanut butter into algorithms_ 🥜💻
+_I turn peanut butter into (hopefully converging) algorithms_ 🥜💻
 
 Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at [IPVF](https://www.ipvf.fr/en/)! 
 Welcome to my webpage!
