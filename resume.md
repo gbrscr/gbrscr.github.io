@@ -14,7 +14,7 @@
   **Centre pour la Vision numérique, CentraleSupélec, Université Paris-Saclay**  
   Nov 2020 - May 2024 | Gif-Sur-Yvette, France
   * Marie Skłodowska-Curie Actions ITN, TRADE-OPT
-  * Thesis Title: "Some Strategies Addressing Non-Convex Variational Problems in Image Processing"
+  * Thesis Title: "Some Strategies Addressing Non-Convex Variational Problems in Image Processing" - [Thesis](https://theses.hal.science/tel-05238373v1/document)
   * Supervisors: Prof. Jean-Christophe Pesquet, Prof. Ewa Bednarczuk
 
 ### Secondments within the ITN project
