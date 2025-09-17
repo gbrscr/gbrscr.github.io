@@ -1,6 +1,10 @@
 ## Publications
 
 
+- **Gabriele Scrivanti**, Luca Calatroni, Stefania Cacovich:  
+  _Noise2Noise Image Reconstruction of Lifetime Maps in Halide Perovskite Thin Films_  
+  EUSIPCO2025  (2025)
+
 - Guillaume Vidon, **Gabriele Scrivanti**, Etienne Soret, Nao Harada, Emilie Chouzenoux, Jean-Christophe Pesquet, Jean-François Guillemoles, Stefania Cacovich:  
   _Rapid and Noise-Resilient Mapping of Photogenerated Carrier Lifetime in Halide Perovskite Thin Films_  
   Advanced Functional Materials : 202402343 (2024)
