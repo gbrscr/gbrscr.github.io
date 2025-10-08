@@ -10,8 +10,6 @@ is_contact: true
 📍 Paris, France  
 📧 gabrielescrivanti@gmail.com 
 
-🔗 [https://orcid.org/0000-0001-8608-3588](https://orcid.org/0000-0001-8608-3588)
-
 ---
 
 ## Mailing Address
@@ -28,5 +26,7 @@ France
 
 ## Social
 
-1. [BlueSky](#)
-2. [GoogleScholar](#)
+1. [LinkedIn](https://www.linkedin.com/in/gabriele-scrivanti-03a3aa188/)
+2. [GoogleScholar](https://scholar.google.com/citations?user=9wetX9AAAAAJ&hl=it)
+3. [Orcid](https://orcid.org/0000-0001-8608-3588)
+4. [GitHub](https://github.com/gbrscr)
