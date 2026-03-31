@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_Trying every day to turn peanut butter into converging algorithms_ 
+_Trying every day to turn peanut butter into imaging algorithms_ 
 
 Ciao, I am Gabriele Scrivanti and I am a postdoc researcher at [MaLGa](https://malga.unige.it/). 
 Welcome to my webpage!
