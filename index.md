@@ -13,7 +13,7 @@ Welcome to my webpage!
 
 I got my master's in mathematics at the University of Bologna in Italy, then did my PhD in Signal and Image processing at Université Paris-Saclay, where I was part of the MSCA ITN ["Trade-OPT"](https://trade-opt-itn.eu/). I spent my first year as a PostDoc at [IPVF](https://www.ipvf.fr/en/), developing mathematical tools for the analysis of microscopy imaging in the context of semiconductor and photovoltaic materials.
 
-Now I am part of the Computational Imaging and Learning group of MaLGa, still doing research and learning new things! 
+Now I am part of the Computational Imaging and Learning (CIL) group of MaLGa, still doing research and learning new things! 
 
 ## Research Interests
 
