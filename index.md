@@ -21,3 +21,8 @@ Currently, I am working on computational microscopy.
 
 More broadly, I am interested in solving complex problems at the intersection of **Mathematical Optimisation**, **Image Processing** and **Unsupervised Learning**.
 
+## News
+
+- My project proposal _Unsupervised Physics-infomed Learning for computational microscopy Imaging Techniques_ (UPLIT), submitted under the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships 2025 call of the Horizon Europe programme, has been awarded the Seal of Excellence by the European Commission 
+
+- My paper _Forward-Backward algorithms for weakly convex problems_ in cooperation with E. Bednarczuk, G. Bruccola and T. H. Tran has been accepted for publication in Applied Mathematics and Optimization [arXiv](https://arxiv.org/abs/2303.14021)
