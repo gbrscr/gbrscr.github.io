@@ -8,19 +8,7 @@ is_contact: true
 🪪 Gabriele Scrivanti 
 ⚧ He/Him/His 
 📍 Paris, France  
-📧 gabrielescrivanti@gmail.com 
-
----
-
-## Mailing Address
-
-Institut Photovoltaïque d'Ile-de-France (IPVF)
-
-18 Bd Thomas Gobert
-
-91120 Palaiseau
-
-France
+📧 gabrielescrivanti@gmail.com | Gabriele.scrivanti@edu.unige.it
 
 ---
 
