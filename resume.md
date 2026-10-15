@@ -6,8 +6,12 @@
 ## 💼 Work Experience
 
 ### Postdoctoral Researcher
+ **Machine Learning Genoa Center (MaLGa), DIBIRIS, University of Genoa**  
+  March 2026 - present | Genoa, Italy
+  * Unsupervised learning for multidimensional photoluminescence imaging
+  * Sampling strategies for imaging inverse problems
   **Institut Photovoltaïque de l'Ile de France, CNRS**  
-  Oct 2024 - present | Palaiseau, France
+  Oct 2024 - Sep 2025 | Palaiseau, France
   * Unsupervised learning for multidimensional photoluminescence imaging
 
 ### PhD Candidate in Engineering and Systems Sciences
@@ -90,7 +94,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 * English: ●●●●○ (IELTS 2018, Europass Level C1)
 * French: ●●●○○
 * Swedish: ●●●○○
-* Norwegian: ●●●○○
+* Norwegian: ●●○○○
 
 ---------------------------------
 
