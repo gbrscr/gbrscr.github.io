@@ -2,7 +2,7 @@
 
 
 - Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The Tran:  
-  _Forward--Backward Algorithms for Weakly Convex Problems_  
+  _Forward-Backward Algorithms for Weakly Convex Problems_  
   Applied Mathematics \& Optimization 93 (74) (2026)
 
 - **Gabriele Scrivanti**, Luca Calatroni, Stefania Cacovich:  
