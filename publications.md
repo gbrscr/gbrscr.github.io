@@ -1,6 +1,10 @@
 ## Publications
 
 
+- Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The Tran:  
+  _Forward--Backward Algorithms for Weakly Convex Problems_  
+  Applied Mathematics \& Optimization 93 (74) (2026)
+
 - **Gabriele Scrivanti**, Luca Calatroni, Stefania Cacovich:  
   _Noise2Noise Image Reconstruction of Lifetime Maps in Halide Perovskite Thin Films_  
   EUSIPCO2025  (2025)
@@ -8,10 +12,6 @@
 - Guillaume Vidon, **Gabriele Scrivanti**, Etienne Soret, Nao Harada, Emilie Chouzenoux, Jean-Christophe Pesquet, Jean-François Guillemoles, Stefania Cacovich:  
   _Rapid and Noise-Resilient Mapping of Photogenerated Carrier Lifetime in Halide Perovskite Thin Films_  
   Advanced Functional Materials : 202402343 (2024)
-
-- Ewa Bednarczuk, Giovanni Bruccola, **Gabriele Scrivanti**, The-Hung Tran:  
-  _Forward-Backward algorithms for weakly convex problems_  
-  arXiv  (2024)
 
 - Émilie Chouzenoux, Marie-Caroline Corbineau, Jean-Christophe Pesquet, **Gabriele Scrivanti**:  
   _A Variational Approach for Joint Image Recovery and Feature Extraction Based on Spatially Varying Generalised Gaussian Models_  
