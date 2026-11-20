@@ -133,11 +133,11 @@ hr {
 @import "tables";
 
 .talks {
-  max-width: 800px;
-  margin: 0;            // use "0 auto" to center
+  max-width: 900px;      // column width; try 800-1000px
+  margin: 2.5rem auto;   // "auto" on the sides centers the column
 
   p {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.5rem;   // big gap between entries, like the example
     line-height: 1.6;
   }
 }
