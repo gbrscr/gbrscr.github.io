@@ -2,7 +2,6 @@
 
 <div class="talks" markdown="1">
 
-
 **Research Seminar hosted by the MARS (Mathematics for AI in Real-world Systems) group, School Of Mathematical Sciences
 Lancaster University, Lancaster, United Kingdom**  
 Talk title: *A Self-supervised Approach for Quantitative Lifetime Estimation in Fluorescence Microscopy for Semiconductor and Photovoltaic Materials*, October 2026
