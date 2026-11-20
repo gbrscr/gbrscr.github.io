@@ -20,5 +20,5 @@ of photovoltaic materials*, May 2026
 
 
 **"Learning Methods for Inverse Problems and Computational Imaging" session at EUSIPCO 2025, Palermo, Italy**  
-Talk Title: *Noise2Noise Image Reconstruction of Lifetime Maps in Halide Perovskite Thin Films*
+Talk Title: *Noise2Noise Image Reconstruction of Lifetime Maps in Halide Perovskite Thin Films*, September 2025
 
