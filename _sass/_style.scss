@@ -133,11 +133,11 @@ hr {
 @import "tables";
 
 .talks {
-  max-width: 900px;      // column width; try 800-1000px
-  margin: 2.5rem auto;   // "auto" on the sides centers the column
+  max-width: 700px;      
+  margin: 0;   
 
   p {
-    margin-bottom: 2.5rem;   // big gap between entries, like the example
+    margin-bottom: 1.6rem;   // big gap between entries, like the example
     line-height: 1.6;
   }
 }
