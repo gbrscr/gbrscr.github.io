@@ -1,6 +1,6 @@
-<div class="talks" markdown="1">
-  
 ## Selected Talks and Posters
+
+<div class="talks" markdown="1">
 
 
 **Research Seminar hosted by the MARS (Mathematics for AI in Real-world Systems) group, School Of Mathematical Sciences
