@@ -98,18 +98,6 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 
 ---------------------------------
 
-## 💻 Computer Skills
-
-* Matlab
-* R
-* C++
-* Python
-* SciPy
-* NumPy
-* Scikit-Learn
-
-----------------------------
-
 ## 🎯 Interests
 
 * Hiking
