@@ -131,3 +131,13 @@ hr {
 
 @import "typography";
 @import "tables";
+
+.talks {
+  max-width: 800px;
+  margin: 0;            // use "0 auto" to center
+
+  p {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+  }
+}
