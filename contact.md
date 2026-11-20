@@ -7,7 +7,7 @@ is_contact: true
 
 🪪 Gabriele Scrivanti 
 ⚧ He/Him/His 
-📍 Paris, France  
+📍 Genova, Italy   
 📧 gabrielescrivanti@gmail.com | Gabriele.scrivanti@edu.unige.it
 
 ---
