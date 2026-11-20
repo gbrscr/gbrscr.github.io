@@ -1,6 +1,6 @@
 ## Selected Talks and Posters
 
-<div class="talks" markdown="1">
+
 
 **Research Seminar hosted by the MARS (Mathematics for AI in Real-world Systems) group, School Of Mathematical Sciences
 Lancaster University, Lancaster, United Kingdom**  
@@ -23,4 +23,4 @@ of photovoltaic materials*, May 2026
 **"Learning Methods for Inverse Problems and Computational Imaging" session at EUSIPCO 2025, Palermo, Italy**  
 Talk Title: *Noise2Noise Image Reconstruction of Lifetime Maps in Halide Perovskite Thin Films*, September 2025
 
-</div>
+
