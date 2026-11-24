@@ -3,13 +3,13 @@
 
 
 
-## 💼 Work Experience
+## Work Experience
 
 ### Postdoctoral Researcher
  **Machine Learning Genoa Center (MaLGa), DIBIRIS, University of Genoa**  
   March 2026 - present | Genoa, Italy
   * Unsupervised learning for multidimensional photoluminescence imaging
-  * Sampling strategies for imaging inverse problems
+  * Sampling strategies for imaging inverse problems  
   **Institut Photovoltaïque de l'Ile de France, CNRS**  
   Oct 2024 - Sep 2025 | Palaiseau, France
   * Unsupervised learning for multidimensional photoluminescence imaging
@@ -40,7 +40,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 
 ----------------------
 
-## 👨‍🏫 Other Experiences
+## Other Experiences
 
 **Teaching at CentraleSupélec:** Laboratory Sessions for the M1 course in Optimisation (March 2021)
 
@@ -57,7 +57,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 
 ------------------- 
 
-## 🎓 Education
+## Education
 
 ### Master Degree in Mathematics
 **University of Bologna - 110/110 cum laude**  
@@ -88,7 +88,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 
 ---------------------------------
 
-## 🌐 Languages
+## Languages
 
 * Italian: ●●●●●
 * English: ●●●●○ (IELTS 2018, Europass Level C1)
@@ -98,7 +98,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 
 ---------------------------------
 
-## 🎯 Interests
+## Interests
 
 * Hiking
 * Reading
