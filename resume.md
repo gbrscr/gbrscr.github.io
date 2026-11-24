@@ -5,11 +5,13 @@
 
 ## Work Experience
 
-### Postdoctoral Researcher
+### Postdoctoral Researcher  
+
  **Machine Learning Genoa Center (MaLGa), DIBIRIS, University of Genoa**  
   March 2026 - present | Genoa, Italy
   * Unsupervised learning for multidimensional photoluminescence imaging
-  * Sampling strategies for imaging inverse problems  
+  * Sampling strategies for imaging inverse problems
+    
   **Institut Photovoltaïque de l'Ile de France, CNRS**  
   Oct 2024 - Sep 2025 | Palaiseau, France
   * Unsupervised learning for multidimensional photoluminescence imaging
