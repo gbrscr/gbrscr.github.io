@@ -3,7 +3,7 @@
 
 
 - **Research Seminar hosted by the MARS (Mathematics for AI in Real-world Systems) group, School Of Mathematical Sciences,
-Lancaster University,  
+Lancaster University  
 Lancaster, United Kingdom**  
 Talk title: *A Self-supervised Approach for Quantitative Lifetime Estimation in Fluorescence Microscopy for Semiconductor and Photovoltaic Materials*,
 October 2026
@@ -21,7 +21,7 @@ Talk title: *A Self-Supervised Approach for Quantitative Lifetime Estimation in 
 September 2026
 
 
-- **ICMS workshop on Imaging inverse problems and generating models: sparsity and robustness versus expressivity,  
+- **ICMS workshop on "Imaging inverse problems and generating models: sparsity and robustness versus expressivity"  
   Edinburgh, UK**  
 Poster title: *A self-supervised approach for quantitative parameter estimation in fluorescence microscopy for stable design
 of photovoltaic materials*,  
