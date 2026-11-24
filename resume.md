@@ -20,7 +20,7 @@
   **Centre pour la Vision numérique, CentraleSupélec, Université Paris-Saclay**  
   Nov 2020 - May 2024 | Gif-Sur-Yvette, France
   * Marie Skłodowska-Curie Actions ITN, TRADE-OPT
-  * Thesis Title: "Some Strategies Addressing Non-Convex Variational Problems in Image Processing" - [Thesis](https://theses.hal.science/tel-05238373v1/document)
+  * Thesis Title: *"Some Strategies Addressing Non-Convex Variational Problems in Image Processing"* - [[Thesis]](https://theses.hal.science/tel-05238373v1/document)
   * Supervisors: Prof. Jean-Christophe Pesquet, Prof. Ewa Bednarczuk
 
 ### Secondments within the ITN project
@@ -65,7 +65,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 **University of Bologna - 110/110 cum laude**  
 2017 - 2020 | Bologna, Italy
 * Numerical Analysis, Image Processing, Partial Differential Equations, Applied Probability, Information Theory, Applied Analysis, Linear Programming
-* Thesis title: Nonsmooth Nonconvex Variational Reconstruction for Electrical Impedance Tomography
+* Thesis title: *"Nonsmooth Nonconvex Variational Reconstruction for Electrical Impedance Tomography"*
 * Thesis supervisor: Prof. Serena Morigi
 
 ### Erasmus Exchange
@@ -77,7 +77,7 @@ Apr 2020 - Jul 2020 | Sophia-Antipolis, France
 ### Bachelor Degree in Mathematics
 **University of Bologna - 105/110**  
 2014 - 2017 | Bologna, Italy
-* Thesis title: Due algoritmi per la fattorizzazione matriciale non-negativa con applicazione al clustering
+* Thesis title: *"Due algoritmi per la fattorizzazione matriciale non-negativa con applicazione al clustering"*
 * Thesis supervisor: Prof. Valeria Simoncini
 
 ### High School Diploma
